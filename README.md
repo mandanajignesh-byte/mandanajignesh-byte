@@ -4,7 +4,7 @@
 
 # Jignesh Mandana
 
-**AI/ML Engineer · Builder · Shipper**
+**AI/ML Engineer · Computer Vision · LLM Fine-tuning**
 
 *I like solving real world problems.*
 
